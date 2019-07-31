@@ -1,5 +1,6 @@
 # C_Class_190712
 주사위 게임
+
 #include <stdio.h>
 #include "stdlib.h"
 #include "time.h"		//random number 처리 코드 1단계
